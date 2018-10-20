@@ -7,7 +7,8 @@
 			<body>
 				<font face="comic sans MS" size="3"> Materi Pemograman Berorientasi Objek</font>
 				<font face="Sans serif" size="1"> Kumpulan catatan tentang mata kuliah PBO, silahkan 
-					diunduh dan di baca ya gaes!</font>
+					diunduh dan di baca ya gaes!<br>mohon maaf jika terjadi kesalahan dalam pengetikan
+					maupun codenya, karena saya baru belajar juga. Keep enjoying guys.</font>
 			</body>
 			</html>
 	
